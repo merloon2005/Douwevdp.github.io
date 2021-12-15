@@ -1,0 +1,47 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+h2 {
+  padding-top: 50px;
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+a {
+  background-color: blue;
+  color: white;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+nav {
+  background-color: blue;
+  max-width: 500px;
+  margin: 0 auto;
+}
+.navigatie{
+  padding: 10px 10px 10px 10px;
+  background-color: darkgreen;
+  color: white;
+  text-align: center;
+}
+body {
+  background-color: lightblue;
+  max-width: 750px;
+  margin: 0 auto;
+
+}
+ol.bol {
+  list-style-type: inherit;
+}
+ol.num {
+  list-style-type: decimal;
+}
+.links {
+  background-color: lightblue;
+  color: black;
+}
+img {
+  width: 750px;
+}
