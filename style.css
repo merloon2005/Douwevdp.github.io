@@ -45,3 +45,8 @@ ol.num {
 img {
   width: 750px;
 }
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+<table style="width:100%">
